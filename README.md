@@ -12,7 +12,7 @@ La base de datos para el proyecto se creó utilizando Workbench 8.0.29, generand
 # Archivos en Repositorio
 En el presente repositorio se podrán encontrar todos los archivos que se fueron generando durante el desarrollo del proyecto:
 
-1)_Clases .java, donde podrán encontrar las clases "Pruba" y "Conexión" (entre otras), desde las cuales se realizarán las acciones requeridas (ej.cargar productos, modificar datos, consultar usuarios, compras, etc).
+1)_Clases .java, donde podrán encontrar las clases "Prueba" y "Conexión" (entre otras), desde las cuales se realizarán las acciones requeridas (ej.cargar productos, modificar datos, consultar usuarios, gestionar compras, etc).
 Algo muy importante de señalar es que, según el perfil del usuario (donde podrán ser Usuario Común o Administrador), serán las acciones permitidas para ejecutar.
 
 2)_Diagramas UML y DEER del proyecto desarrollado.
